@@ -1,1 +1,0 @@
-# rinjula.github.io

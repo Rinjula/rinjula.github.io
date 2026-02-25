@@ -293,7 +293,7 @@ langSlider.addEventListener("input", () => {
     "source-layer": "nepal_states_simplified_geojs-612k5g",
     paint: {
       "fill-color": '#ff7f50',
-      "fill-opacity": 0.55
+      "fill-opacity": 0.25
     }
   }, firstSymbolId);
 
@@ -311,7 +311,7 @@ langSlider.addEventListener("input", () => {
     "source-layer": "ne_india_simplified_geojson02-8qy62g",
     paint: {
       "fill-color": '#4a90e2',
-      "fill-opacity": 0.55
+      "fill-opacity": 0.25
     }
   }, "nepal-fill");
 
@@ -328,7 +328,7 @@ langSlider.addEventListener("input", () => {
     source: "west_bengal",
     paint: {
       "fill-color": '#1e7f4c',
-      "fill-opacity": 0.55
+      "fill-opacity": 0.25
     }
   }, "ne_india-fill");
 

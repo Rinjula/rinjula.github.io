@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+    <title>Gorkhas migration and linguistic evolution</title>
+    <link href="https://api.mapbox.com/mapbox-gl-js/v3.1.2/mapbox-gl.css" rel="stylesheet" />
+<link rel='stylesheet' href='https://api.mapbox.com/mapbox-gl-js/v3.1.2/mapbox-gl.css'><link rel="stylesheet" href="./style.css">
+
+  </head>
+    
+  <body>
+  <div id="map"></div>
+
+<!-- NAV BAR -->
+<div id="nav-bar">
+  <div class="nav-item active" data-tab="home">🏠 Home</div>
+  <div class="nav-item" data-tab="map">🗺️ Map</div>
+  <div class="nav-item" data-tab="search">🔍 Search</div>
+  <div class="nav-item" data-tab="about">📜 About</div>
+</div>
+
+<!-- INFO PANEL -->
+<div id="info-panel">
+  <div id="info-header">
+    <h1>Gorkha Migration & Linguistic Evolution</h1>
+    <span id="info-toggle">✕</span>
+  </div>
+
+  <p>
+    A cartographic story of movement, memory, and language across Nepal,
+    West Bengal, and Northeast India. 
+  </p>
+</div>
+
+<!-- SEARCH PANEL -->
+<div id="search-panel" class="tab-panel">
+  <div id="search-box">
+    <input type="text" id="search-input" placeholder="Search places, districts, routes...">
+    <button id="search-btn">Search</button>
+    <button id="clear-btn">✕</button>
+  </div>
+  <div id="suggestions"></div>
+</div>
+
+<!-- ABOUT PANEL -->
+    </div>
+</div>
+
+<div id="about-panel" class="tab-panel">
+  <h2 class="about-title">About This Map</h2>
+
+  <div class="info-item">
+    <div class="info-header">About <span class="arrow">▾</span></div>
+    <div class="info-body">
+      <p>This map visualizes the intertwined journey of Nepali migration and language spread across Nepal and Northeast India, anchored in the personal story of my great‑grandfather’s movement from Charikot to the Luksan Tea Estate. By combining historical routes, regional centroids, and a temporal slider, the map illustrates how mobility, labour, and cultural exchange shaped the linguistic landscape of the eastern Himalayas. Each point and path represents more than geography — it reflects memory, identity, and the lived experiences of Gorkha communities whose movements carried the Nepali language across borders and generations.</p>
+    </div>
+  </div>
+
+  <div class="info-item">
+    <div class="info-header">My Family's Story <span class="arrow">▾</span></div>
+    <div class="info-body">
+      <p>This map visualizes the intertwined journey of Nepali migration and language spread across Nepal and Northeast India, anchored in the personal story of my great‑grandfather’s movement from Charikot to the Luksan Tea Estate. By combining historical routes, regional centroids, and a temporal slider, the map illustrates how mobility, labour, and cultural exchange shaped the linguistic landscape of the eastern Himalayas. Each point and path represents more than geography — it reflects memory, identity, and the lived experiences of Gorkha communities whose movements carried the Nepali language across borders and generations.</p>
+    </div>
+  </div>
+
+  <div class="info-item">
+    <div class="info-header">Data <span class="arrow">▾</span></div>
+    <div class="info-body">
+      <p>GRAPHICAL SCALE
+  </p>
+      <div class="info-item"> <div class="info-header"> <span class="arrow">▾</span></div> <div class="info-body"> <canvas id="circleChart"></canvas> </div> </div>
+    </div>
+  </div>
+
+  <div class="info-item">
+    <div class="info-header">Graphs <span class="arrow">▾</span></div>
+    <div class="info-body">
+      <p>LINE GRAPH SHOWING </p>
+      <div class="info-item"> <div class="info-header"><span class="arrow">▾</span></div> <div class="info-body"> <canvas id="lineChart"></canvas> </div> </div>
+    </div>
+  </div>
+</div>
+
+</div>
+
+<!-- SHOW INFO BUTTON -->
+<div id="show-info">Show Info</div>
+
+<!-- ⭐ FINAL, CORRECT SLIDER BOX (ONLY ONE!) -->
+<div id="language-slider-box">
+  <div id="language-slider-title">Nepali Language Spread</div>
+
+  <input type="range" id="language-slider" min="1850" max="2024" step="1" value="1850">
+
+  <div id="language-year-labels">
+    <span>1850</span>
+    <span>1870</span>
+    <span>1900</span>
+    <span>1920</span>
+    <span>1947</span>
+    <span>1992</span>
+    <span>2015</span>
+    <span>2024</span>
+  </div>
+
+  <div id="language-year">1850</div>
+</div>
+
+<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500;600&display=swap" rel="stylesheet">
+<div class="info-item">
+  <div class="info-header">Data <span class="arrow">▾</span></div>
+  <div class="info-body">
+    <p>Circle radius scale (Nepali language %):</p>
+    <canvas id="circleChart" width="240" height="240"></canvas>
+  </div>
+</div>
+
+<div class="info-item">
+  <div class="info-header">Graphs <span class="arrow">▾</span></div>
+  <div class="info-body">
+    <p>Nepali language growth over time:</p>
+    <canvas id="lineChart" width="260" height="180"></canvas>
+  </div>
+</div>
+    <script src='https://api.mapbox.com/mapbox-gl-js/v3.1.2/mapbox-gl.js'></script>
+<script src='https://cdn.jsdelivr.net/npm/chart.js'></script><script  src="./script.js"></script>
+
+  </body>
+  
+</html>

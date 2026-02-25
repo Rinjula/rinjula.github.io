@@ -292,8 +292,8 @@ langSlider.addEventListener("input", () => {
     source: "nepal",
     "source-layer": "nepal_states_simplified_geojs-612k5g",
     paint: {
-      "fill-color": "#d9d9d9",
-      "fill-opacity": 0.25
+      "fill-color": '#ff7f50',
+      "fill-opacity": 0.55
     }
   }, firstSymbolId);
 
@@ -310,8 +310,8 @@ langSlider.addEventListener("input", () => {
     source: "ne_india",
     "source-layer": "ne_india_simplified_geojson02-8qy62g",
     paint: {
-      "fill-color": "#d9d9d9",
-      "fill-opacity": 0.25
+      "fill-color": '#4a90e2',
+      "fill-opacity": 0.55
     }
   }, "nepal-fill");
 
@@ -327,8 +327,8 @@ langSlider.addEventListener("input", () => {
     type: "fill",
     source: "west_bengal",
     paint: {
-      "fill-color": "#d9d9d9",
-      "fill-opacity": 0.25
+      "fill-color": '#1e7f4c',
+      "fill-opacity": 0.55
     }
   }, "ne_india-fill");
 
@@ -859,3 +859,4 @@ map.on("load", () => {
     map.setPaintProperty("your-layer", "circle-opacity", 1);
   }, 500);
 });
+

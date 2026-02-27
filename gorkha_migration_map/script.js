@@ -7,7 +7,7 @@ const map = new mapboxgl.Map({
   container: "map",
   style: "mapbox://styles/mapbox/outdoors-v12",
   center: [88.5, 26.8], //Darjeeling–Dooars region 
-  zoom: 5.5
+  zoom: 6.0
 });
 
 // Controls

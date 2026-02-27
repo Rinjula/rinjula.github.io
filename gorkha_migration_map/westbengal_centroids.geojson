@@ -1,68 +1,98 @@
 {
-"type": "FeatureCollection",
-"name": "westbengal_centroids",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"xy_coordinate_resolution": 1e-15,
-"features": [
-{ "type": "Feature", "properties": { "GID_1": "IND.36_1", "GID_0": "IND", "COUNTRY": "India", "NAME_1": "WestBengal", "VARNAME_1": "Bangla|BengalaOccidentale|Benga", "NL_NAME_1": "NA", "TYPE_1": "State", "ENGTYPE_1": "State", "CC_1": "NA", "HASC_1": "IN.WB", "ISO_1": "IN-WB" }, "geometry": { "type": "Point", "coordinates": [ 88.550137891454312, 21.604856375598434 ] } },
-{ "type": "Feature", "properties": { "GID_1": "IND.36_1", "GID_0": "IND", "COUNTRY": "India", "NAME_1": "WestBengal", "VARNAME_1": "Bangla|BengalaOccidentale|Benga", "NL_NAME_1": "NA", "TYPE_1": "State", "ENGTYPE_1": "State", "CC_1": "NA", "HASC_1": "IN.WB", "ISO_1": "IN-WB" }, "geometry": { "type": "Point", "coordinates": [ 88.579206104309691, 21.648418795149563 ] } },
-{ "type": "Feature", "properties": { "GID_1": "IND.36_1", "GID_0": "IND", "COUNTRY": "India", "NAME_1": "WestBengal", "VARNAME_1": "Bangla|BengalaOccidentale|Benga", "NL_NAME_1": "NA", "TYPE_1": "State", "ENGTYPE_1": "State", "CC_1": "NA", "HASC_1": "IN.WB", "ISO_1": "IN-WB" }, "geometry": { "type": "Point", "coordinates": [ 88.633766006286606, 21.663993833568842 ] } },
-{ "type": "Feature", "properties": { "GID_1": "IND.36_1", "GID_0": "IND", "COUNTRY": "India", "NAME_1": "WestBengal", "VARNAME_1": "Bangla|BengalaOccidentale|Benga", "NL_NAME_1": "NA", "TYPE_1": "State", "ENGTYPE_1": "State", "CC_1": "NA", "HASC_1": "IN.WB", "ISO_1": "IN-WB" }, "geometry": { "type": "Point", "coordinates": [ 88.714744155046034, 21.666864185952299 ] } },
-{ "type": "Feature", "properties": { "GID_1": "IND.36_1", "GID_0": "IND", "COUNTRY": "India", "NAME_1": "WestBengal", "VARNAME_1": "Bangla|BengalaOccidentale|Benga", "NL_NAME_1": "NA", "TYPE_1": "State", "ENGTYPE_1": "State", "CC_1": "NA", "HASC_1": "IN.WB", "ISO_1": "IN-WB" }, "geometry": { "type": "Point", "coordinates": [ 88.862603051452766, 21.573185669022209 ] } },
-{ "type": "Feature", "properties": { "GID_1": "IND.36_1", "GID_0": "IND", "COUNTRY": "India", "NAME_1": "WestBengal", "VARNAME_1": "Bangla|BengalaOccidentale|Benga", "NL_NAME_1": "NA", "TYPE_1": "State", "ENGTYPE_1": "State", "CC_1": "NA", "HASC_1": "IN.WB", "ISO_1": "IN-WB" }, "geometry": { "type": "Point", "coordinates": [ 88.891561129207389, 21.651652551574376 ] } },
-{ "type": "Feature", "properties": { "GID_1": "IND.36_1", "GID_0": "IND", "COUNTRY": "India", "NAME_1": "WestBengal", "VARNAME_1": "Bangla|BengalaOccidentale|Benga", "NL_NAME_1": "NA", "TYPE_1": "State", "ENGTYPE_1": "State", "CC_1": "NA", "HASC_1": "IN.WB", "ISO_1": "IN-WB" }, "geometry": { "type": "Point", "coordinates": [ 88.905055580680028, 21.690122337831777 ] } },
-{ "type": "Feature", "properties": { "GID_1": "IND.36_1", "GID_0": "IND", "COUNTRY": "India", "NAME_1": "WestBengal", "VARNAME_1": "Bangla|BengalaOccidentale|Benga", "NL_NAME_1": "NA", "TYPE_1": "State", "ENGTYPE_1": "State", "CC_1": "NA", "HASC_1": "IN.WB", "ISO_1": "IN-WB" }, "geometry": { "type": "Point", "coordinates": [ 88.826558070914501, 21.700628180187373 ] } },
-{ "type": "Feature", "properties": { "GID_1": "IND.36_1", "GID_0": "IND", "COUNTRY": "India", "NAME_1": "WestBengal", "VARNAME_1": "Bangla|BengalaOccidentale|Benga", "NL_NAME_1": "NA", "TYPE_1": "State", "ENGTYPE_1": "State", "CC_1": "NA", "HASC_1": "IN.WB", "ISO_1": "IN-WB" }, "geometry": { "type": "Point", "coordinates": [ 88.728155179135769, 21.600407678168597 ] } },
-{ "type": "Feature", "properties": { "GID_1": "IND.36_1", "GID_0": "IND", "COUNTRY": "India", "NAME_1": "WestBengal", "VARNAME_1": "Bangla|BengalaOccidentale|Benga", "NL_NAME_1": "NA", "TYPE_1": "State", "ENGTYPE_1": "State", "CC_1": "NA", "HASC_1": "IN.WB", "ISO_1": "IN-WB" }, "geometry": { "type": "Point", "coordinates": [ 88.762184271349582, 21.61334179100594 ] } },
-{ "type": "Feature", "properties": { "GID_1": "IND.36_1", "GID_0": "IND", "COUNTRY": "India", "NAME_1": "WestBengal", "VARNAME_1": "Bangla|BengalaOccidentale|Benga", "NL_NAME_1": "NA", "TYPE_1": "State", "ENGTYPE_1": "State", "CC_1": "NA", "HASC_1": "IN.WB", "ISO_1": "IN-WB" }, "geometry": { "type": "Point", "coordinates": [ 88.781818412296246, 21.680466157136649 ] } },
-{ "type": "Feature", "properties": { "GID_1": "IND.36_1", "GID_0": "IND", "COUNTRY": "India", "NAME_1": "WestBengal", "VARNAME_1": "Bangla|BengalaOccidentale|Benga", "NL_NAME_1": "NA", "TYPE_1": "State", "ENGTYPE_1": "State", "CC_1": "NA", "HASC_1": "IN.WB", "ISO_1": "IN-WB" }, "geometry": { "type": "Point", "coordinates": [ 88.729963153093294, 21.731684086428817 ] } },
-{ "type": "Feature", "properties": { "GID_1": "IND.36_1", "GID_0": "IND", "COUNTRY": "India", "NAME_1": "WestBengal", "VARNAME_1": "Bangla|BengalaOccidentale|Benga", "NL_NAME_1": "NA", "TYPE_1": "State", "ENGTYPE_1": "State", "CC_1": "NA", "HASC_1": "IN.WB", "ISO_1": "IN-WB" }, "geometry": { "type": "Point", "coordinates": [ 88.77505827933166, 21.772392411516797 ] } },
-{ "type": "Feature", "properties": { "GID_1": "IND.36_1", "GID_0": "IND", "COUNTRY": "India", "NAME_1": "WestBengal", "VARNAME_1": "Bangla|BengalaOccidentale|Benga", "NL_NAME_1": "NA", "TYPE_1": "State", "ENGTYPE_1": "State", "CC_1": "NA", "HASC_1": "IN.WB", "ISO_1": "IN-WB" }, "geometry": { "type": "Point", "coordinates": [ 88.809242647586487, 21.77860860620773 ] } },
-{ "type": "Feature", "properties": { "GID_1": "IND.36_1", "GID_0": "IND", "COUNTRY": "India", "NAME_1": "WestBengal", "VARNAME_1": "Bangla|BengalaOccidentale|Benga", "NL_NAME_1": "NA", "TYPE_1": "State", "ENGTYPE_1": "State", "CC_1": "NA", "HASC_1": "IN.WB", "ISO_1": "IN-WB" }, "geometry": { "type": "Point", "coordinates": [ 88.741772189231668, 21.789328453692246 ] } },
-{ "type": "Feature", "properties": { "GID_1": "IND.36_1", "GID_0": "IND", "COUNTRY": "India", "NAME_1": "WestBengal", "VARNAME_1": "Bangla|BengalaOccidentale|Benga", "NL_NAME_1": "NA", "TYPE_1": "State", "ENGTYPE_1": "State", "CC_1": "NA", "HASC_1": "IN.WB", "ISO_1": "IN-WB" }, "geometry": { "type": "Point", "coordinates": [ 88.798629817645633, 21.840508924600098 ] } },
-{ "type": "Feature", "properties": { "GID_1": "IND.36_1", "GID_0": "IND", "COUNTRY": "India", "NAME_1": "WestBengal", "VARNAME_1": "Bangla|BengalaOccidentale|Benga", "NL_NAME_1": "NA", "TYPE_1": "State", "ENGTYPE_1": "State", "CC_1": "NA", "HASC_1": "IN.WB", "ISO_1": "IN-WB" }, "geometry": { "type": "Point", "coordinates": [ 88.966831072948054, 21.637322436012788 ] } },
-{ "type": "Feature", "properties": { "GID_1": "IND.36_1", "GID_0": "IND", "COUNTRY": "India", "NAME_1": "WestBengal", "VARNAME_1": "Bangla|BengalaOccidentale|Benga", "NL_NAME_1": "NA", "TYPE_1": "State", "ENGTYPE_1": "State", "CC_1": "NA", "HASC_1": "IN.WB", "ISO_1": "IN-WB" }, "geometry": { "type": "Point", "coordinates": [ 88.992422059181237, 21.65229280370658 ] } },
-{ "type": "Feature", "properties": { "GID_1": "IND.36_1", "GID_0": "IND", "COUNTRY": "India", "NAME_1": "WestBengal", "VARNAME_1": "Bangla|BengalaOccidentale|Benga", "NL_NAME_1": "NA", "TYPE_1": "State", "ENGTYPE_1": "State", "CC_1": "NA", "HASC_1": "IN.WB", "ISO_1": "IN-WB" }, "geometry": { "type": "Point", "coordinates": [ 89.054547358591776, 21.668819331650319 ] } },
-{ "type": "Feature", "properties": { "GID_1": "IND.36_1", "GID_0": "IND", "COUNTRY": "India", "NAME_1": "WestBengal", "VARNAME_1": "Bangla|BengalaOccidentale|Benga", "NL_NAME_1": "NA", "TYPE_1": "State", "ENGTYPE_1": "State", "CC_1": "NA", "HASC_1": "IN.WB", "ISO_1": "IN-WB" }, "geometry": { "type": "Point", "coordinates": [ 89.002547048253092, 21.688707460558668 ] } },
-{ "type": "Feature", "properties": { "GID_1": "IND.36_1", "GID_0": "IND", "COUNTRY": "India", "NAME_1": "WestBengal", "VARNAME_1": "Bangla|BengalaOccidentale|Benga", "NL_NAME_1": "NA", "TYPE_1": "State", "ENGTYPE_1": "State", "CC_1": "NA", "HASC_1": "IN.WB", "ISO_1": "IN-WB" }, "geometry": { "type": "Point", "coordinates": [ 88.951896508661278, 21.730148114534927 ] } },
-{ "type": "Feature", "properties": { "GID_1": "IND.36_1", "GID_0": "IND", "COUNTRY": "India", "NAME_1": "WestBengal", "VARNAME_1": "Bangla|BengalaOccidentale|Benga", "NL_NAME_1": "NA", "TYPE_1": "State", "ENGTYPE_1": "State", "CC_1": "NA", "HASC_1": "IN.WB", "ISO_1": "IN-WB" }, "geometry": { "type": "Point", "coordinates": [ 89.024904377081768, 21.740079027804196 ] } },
-{ "type": "Feature", "properties": { "GID_1": "IND.36_1", "GID_0": "IND", "COUNTRY": "India", "NAME_1": "WestBengal", "VARNAME_1": "Bangla|BengalaOccidentale|Benga", "NL_NAME_1": "NA", "TYPE_1": "State", "ENGTYPE_1": "State", "CC_1": "NA", "HASC_1": "IN.WB", "ISO_1": "IN-WB" }, "geometry": { "type": "Point", "coordinates": [ 88.988219938349204, 21.75323968743637 ] } },
-{ "type": "Feature", "properties": { "GID_1": "IND.36_1", "GID_0": "IND", "COUNTRY": "India", "NAME_1": "WestBengal", "VARNAME_1": "Bangla|BengalaOccidentale|Benga", "NL_NAME_1": "NA", "TYPE_1": "State", "ENGTYPE_1": "State", "CC_1": "NA", "HASC_1": "IN.WB", "ISO_1": "IN-WB" }, "geometry": { "type": "Point", "coordinates": [ 89.00657150523989, 21.790217310808469 ] } },
-{ "type": "Feature", "properties": { "GID_1": "IND.36_1", "GID_0": "IND", "COUNTRY": "India", "NAME_1": "WestBengal", "VARNAME_1": "Bangla|BengalaOccidentale|Benga", "NL_NAME_1": "NA", "TYPE_1": "State", "ENGTYPE_1": "State", "CC_1": "NA", "HASC_1": "IN.WB", "ISO_1": "IN-WB" }, "geometry": { "type": "Point", "coordinates": [ 88.908984827147833, 21.794367685071755 ] } },
-{ "type": "Feature", "properties": { "GID_1": "IND.36_1", "GID_0": "IND", "COUNTRY": "India", "NAME_1": "WestBengal", "VARNAME_1": "Bangla|BengalaOccidentale|Benga", "NL_NAME_1": "NA", "TYPE_1": "State", "ENGTYPE_1": "State", "CC_1": "NA", "HASC_1": "IN.WB", "ISO_1": "IN-WB" }, "geometry": { "type": "Point", "coordinates": [ 88.868176461232338, 21.801307597155329 ] } },
-{ "type": "Feature", "properties": { "GID_1": "IND.36_1", "GID_0": "IND", "COUNTRY": "India", "NAME_1": "WestBengal", "VARNAME_1": "Bangla|BengalaOccidentale|Benga", "NL_NAME_1": "NA", "TYPE_1": "State", "ENGTYPE_1": "State", "CC_1": "NA", "HASC_1": "IN.WB", "ISO_1": "IN-WB" }, "geometry": { "type": "Point", "coordinates": [ 88.9059777570683, 21.877706320817744 ] } },
-{ "type": "Feature", "properties": { "GID_1": "IND.36_1", "GID_0": "IND", "COUNTRY": "India", "NAME_1": "WestBengal", "VARNAME_1": "Bangla|BengalaOccidentale|Benga", "NL_NAME_1": "NA", "TYPE_1": "State", "ENGTYPE_1": "State", "CC_1": "NA", "HASC_1": "IN.WB", "ISO_1": "IN-WB" }, "geometry": { "type": "Point", "coordinates": [ 88.822184723485933, 21.882817745944386 ] } },
-{ "type": "Feature", "properties": { "GID_1": "IND.36_1", "GID_0": "IND", "COUNTRY": "India", "NAME_1": "WestBengal", "VARNAME_1": "Bangla|BengalaOccidentale|Benga", "NL_NAME_1": "NA", "TYPE_1": "State", "ENGTYPE_1": "State", "CC_1": "NA", "HASC_1": "IN.WB", "ISO_1": "IN-WB" }, "geometry": { "type": "Point", "coordinates": [ 88.942245069530358, 21.802456243245093 ] } },
-{ "type": "Feature", "properties": { "GID_1": "IND.36_1", "GID_0": "IND", "COUNTRY": "India", "NAME_1": "WestBengal", "VARNAME_1": "Bangla|BengalaOccidentale|Benga", "NL_NAME_1": "NA", "TYPE_1": "State", "ENGTYPE_1": "State", "CC_1": "NA", "HASC_1": "IN.WB", "ISO_1": "IN-WB" }, "geometry": { "type": "Point", "coordinates": [ 88.989475676607057, 21.838059275092558 ] } },
-{ "type": "Feature", "properties": { "GID_1": "IND.36_1", "GID_0": "IND", "COUNTRY": "India", "NAME_1": "WestBengal", "VARNAME_1": "Bangla|BengalaOccidentale|Benga", "NL_NAME_1": "NA", "TYPE_1": "State", "ENGTYPE_1": "State", "CC_1": "NA", "HASC_1": "IN.WB", "ISO_1": "IN-WB" }, "geometry": { "type": "Point", "coordinates": [ 89.026961833434356, 21.995013232398062 ] } },
-{ "type": "Feature", "properties": { "GID_1": "IND.36_1", "GID_0": "IND", "COUNTRY": "India", "NAME_1": "WestBengal", "VARNAME_1": "Bangla|BengalaOccidentale|Benga", "NL_NAME_1": "NA", "TYPE_1": "State", "ENGTYPE_1": "State", "CC_1": "NA", "HASC_1": "IN.WB", "ISO_1": "IN-WB" }, "geometry": { "type": "Point", "coordinates": [ 88.952596536933413, 22.043541564845832 ] } },
-{ "type": "Feature", "properties": { "GID_1": "IND.36_1", "GID_0": "IND", "COUNTRY": "India", "NAME_1": "WestBengal", "VARNAME_1": "Bangla|BengalaOccidentale|Benga", "NL_NAME_1": "NA", "TYPE_1": "State", "ENGTYPE_1": "State", "CC_1": "NA", "HASC_1": "IN.WB", "ISO_1": "IN-WB" }, "geometry": { "type": "Point", "coordinates": [ 88.737226354169536, 21.846181905831433 ] } },
-{ "type": "Feature", "properties": { "GID_1": "IND.36_1", "GID_0": "IND", "COUNTRY": "India", "NAME_1": "WestBengal", "VARNAME_1": "Bangla|BengalaOccidentale|Benga", "NL_NAME_1": "NA", "TYPE_1": "State", "ENGTYPE_1": "State", "CC_1": "NA", "HASC_1": "IN.WB", "ISO_1": "IN-WB" }, "geometry": { "type": "Point", "coordinates": [ 88.769302674709991, 21.902396214050658 ] } },
-{ "type": "Feature", "properties": { "GID_1": "IND.36_1", "GID_0": "IND", "COUNTRY": "India", "NAME_1": "WestBengal", "VARNAME_1": "Bangla|BengalaOccidentale|Benga", "NL_NAME_1": "NA", "TYPE_1": "State", "ENGTYPE_1": "State", "CC_1": "NA", "HASC_1": "IN.WB", "ISO_1": "IN-WB" }, "geometry": { "type": "Point", "coordinates": [ 88.753404243528507, 21.946504865507311 ] } },
-{ "type": "Feature", "properties": { "GID_1": "IND.36_1", "GID_0": "IND", "COUNTRY": "India", "NAME_1": "WestBengal", "VARNAME_1": "Bangla|BengalaOccidentale|Benga", "NL_NAME_1": "NA", "TYPE_1": "State", "ENGTYPE_1": "State", "CC_1": "NA", "HASC_1": "IN.WB", "ISO_1": "IN-WB" }, "geometry": { "type": "Point", "coordinates": [ 88.751096903714213, 21.993502985568959 ] } },
-{ "type": "Feature", "properties": { "GID_1": "IND.36_1", "GID_0": "IND", "COUNTRY": "India", "NAME_1": "WestBengal", "VARNAME_1": "Bangla|BengalaOccidentale|Benga", "NL_NAME_1": "NA", "TYPE_1": "State", "ENGTYPE_1": "State", "CC_1": "NA", "HASC_1": "IN.WB", "ISO_1": "IN-WB" }, "geometry": { "type": "Point", "coordinates": [ 88.836034455089205, 21.974913649144437 ] } },
-{ "type": "Feature", "properties": { "GID_1": "IND.36_1", "GID_0": "IND", "COUNTRY": "India", "NAME_1": "WestBengal", "VARNAME_1": "Bangla|BengalaOccidentale|Benga", "NL_NAME_1": "NA", "TYPE_1": "State", "ENGTYPE_1": "State", "CC_1": "NA", "HASC_1": "IN.WB", "ISO_1": "IN-WB" }, "geometry": { "type": "Point", "coordinates": [ 88.883680305550854, 22.033529772817289 ] } },
-{ "type": "Feature", "properties": { "GID_1": "IND.36_1", "GID_0": "IND", "COUNTRY": "India", "NAME_1": "WestBengal", "VARNAME_1": "Bangla|BengalaOccidentale|Benga", "NL_NAME_1": "NA", "TYPE_1": "State", "ENGTYPE_1": "State", "CC_1": "NA", "HASC_1": "IN.WB", "ISO_1": "IN-WB" }, "geometry": { "type": "Point", "coordinates": [ 88.85219479842749, 22.053599352433096 ] } },
-{ "type": "Feature", "properties": { "GID_1": "IND.36_1", "GID_0": "IND", "COUNTRY": "India", "NAME_1": "WestBengal", "VARNAME_1": "Bangla|BengalaOccidentale|Benga", "NL_NAME_1": "NA", "TYPE_1": "State", "ENGTYPE_1": "State", "CC_1": "NA", "HASC_1": "IN.WB", "ISO_1": "IN-WB" }, "geometry": { "type": "Point", "coordinates": [ 88.667001931627041, 21.983254988852678 ] } },
-{ "type": "Feature", "properties": { "GID_1": "IND.36_1", "GID_0": "IND", "COUNTRY": "India", "NAME_1": "WestBengal", "VARNAME_1": "Bangla|BengalaOccidentale|Benga", "NL_NAME_1": "NA", "TYPE_1": "State", "ENGTYPE_1": "State", "CC_1": "NA", "HASC_1": "IN.WB", "ISO_1": "IN-WB" }, "geometry": { "type": "Point", "coordinates": [ 88.631598546662531, 22.055517393335411 ] } },
-{ "type": "Feature", "properties": { "GID_1": "IND.36_1", "GID_0": "IND", "COUNTRY": "India", "NAME_1": "WestBengal", "VARNAME_1": "Bangla|BengalaOccidentale|Benga", "NL_NAME_1": "NA", "TYPE_1": "State", "ENGTYPE_1": "State", "CC_1": "NA", "HASC_1": "IN.WB", "ISO_1": "IN-WB" }, "geometry": { "type": "Point", "coordinates": [ 88.689739215686259, 22.080994117647059 ] } },
-{ "type": "Feature", "properties": { "GID_1": "IND.36_1", "GID_0": "IND", "COUNTRY": "India", "NAME_1": "WestBengal", "VARNAME_1": "Bangla|BengalaOccidentale|Benga", "NL_NAME_1": "NA", "TYPE_1": "State", "ENGTYPE_1": "State", "CC_1": "NA", "HASC_1": "IN.WB", "ISO_1": "IN-WB" }, "geometry": { "type": "Point", "coordinates": [ 88.703883919996045, 22.089294836378041 ] } },
-{ "type": "Feature", "properties": { "GID_1": "IND.36_1", "GID_0": "IND", "COUNTRY": "India", "NAME_1": "WestBengal", "VARNAME_1": "Bangla|BengalaOccidentale|Benga", "NL_NAME_1": "NA", "TYPE_1": "State", "ENGTYPE_1": "State", "CC_1": "NA", "HASC_1": "IN.WB", "ISO_1": "IN-WB" }, "geometry": { "type": "Point", "coordinates": [ 88.770007827625619, 22.036247656318956 ] } },
-{ "type": "Feature", "properties": { "GID_1": "IND.36_1", "GID_0": "IND", "COUNTRY": "India", "NAME_1": "WestBengal", "VARNAME_1": "Bangla|BengalaOccidentale|Benga", "NL_NAME_1": "NA", "TYPE_1": "State", "ENGTYPE_1": "State", "CC_1": "NA", "HASC_1": "IN.WB", "ISO_1": "IN-WB" }, "geometry": { "type": "Point", "coordinates": [ 88.731985272625082, 22.043640584598084 ] } },
-{ "type": "Feature", "properties": { "GID_1": "IND.36_1", "GID_0": "IND", "COUNTRY": "India", "NAME_1": "WestBengal", "VARNAME_1": "Bangla|BengalaOccidentale|Benga", "NL_NAME_1": "NA", "TYPE_1": "State", "ENGTYPE_1": "State", "CC_1": "NA", "HASC_1": "IN.WB", "ISO_1": "IN-WB" }, "geometry": { "type": "Point", "coordinates": [ 88.80882716979869, 22.04400624937448 ] } },
-{ "type": "Feature", "properties": { "GID_1": "IND.36_1", "GID_0": "IND", "COUNTRY": "India", "NAME_1": "WestBengal", "VARNAME_1": "Bangla|BengalaOccidentale|Benga", "NL_NAME_1": "NA", "TYPE_1": "State", "ENGTYPE_1": "State", "CC_1": "NA", "HASC_1": "IN.WB", "ISO_1": "IN-WB" }, "geometry": { "type": "Point", "coordinates": [ 88.788444938853104, 22.075939595512654 ] } },
-{ "type": "Feature", "properties": { "GID_1": "IND.36_1", "GID_0": "IND", "COUNTRY": "India", "NAME_1": "WestBengal", "VARNAME_1": "Bangla|BengalaOccidentale|Benga", "NL_NAME_1": "NA", "TYPE_1": "State", "ENGTYPE_1": "State", "CC_1": "NA", "HASC_1": "IN.WB", "ISO_1": "IN-WB" }, "geometry": { "type": "Point", "coordinates": [ 88.731687121212119, 22.120881830018938 ] } },
-{ "type": "Feature", "properties": { "GID_1": "IND.36_1", "GID_0": "IND", "COUNTRY": "India", "NAME_1": "WestBengal", "VARNAME_1": "Bangla|BengalaOccidentale|Benga", "NL_NAME_1": "NA", "TYPE_1": "State", "ENGTYPE_1": "State", "CC_1": "NA", "HASC_1": "IN.WB", "ISO_1": "IN-WB" }, "geometry": { "type": "Point", "coordinates": [ 88.784961620971103, 22.129356771160708 ] } },
-{ "type": "Feature", "properties": { "GID_1": "IND.36_1", "GID_0": "IND", "COUNTRY": "India", "NAME_1": "WestBengal", "VARNAME_1": "Bangla|BengalaOccidentale|Benga", "NL_NAME_1": "NA", "TYPE_1": "State", "ENGTYPE_1": "State", "CC_1": "NA", "HASC_1": "IN.WB", "ISO_1": "IN-WB" }, "geometry": { "type": "Point", "coordinates": [ 88.699367951607272, 22.121027191858705 ] } },
-{ "type": "Feature", "properties": { "GID_1": "IND.36_1", "GID_0": "IND", "COUNTRY": "India", "NAME_1": "WestBengal", "VARNAME_1": "Bangla|BengalaOccidentale|Benga", "NL_NAME_1": "NA", "TYPE_1": "State", "ENGTYPE_1": "State", "CC_1": "NA", "HASC_1": "IN.WB", "ISO_1": "IN-WB" }, "geometry": { "type": "Point", "coordinates": [ 87.94668209628405, 23.904926063857825 ] } },
-{ "type": "Feature", "properties": { "GID_1": "IND.36_1", "GID_0": "IND", "COUNTRY": "India", "NAME_1": "WestBengal", "VARNAME_1": "Bangla|BengalaOccidentale|Benga", "NL_NAME_1": "NA", "TYPE_1": "State", "ENGTYPE_1": "State", "CC_1": "NA", "HASC_1": "IN.WB", "ISO_1": "IN-WB" }, "geometry": { "type": "Point", "coordinates": [ 88.792219319372791, 22.221277945531906 ] } },
-{ "type": "Feature", "properties": { "GID_1": "IND.36_1", "GID_0": "IND", "COUNTRY": "India", "NAME_1": "WestBengal", "VARNAME_1": "Bangla|BengalaOccidentale|Benga", "NL_NAME_1": "NA", "TYPE_1": "State", "ENGTYPE_1": "State", "CC_1": "NA", "HASC_1": "IN.WB", "ISO_1": "IN-WB" }, "geometry": { "type": "Point", "coordinates": [ 88.804586035264748, 22.466620224241005 ] } },
-{ "type": "Feature", "properties": { "GID_1": "IND.36_1", "GID_0": "IND", "COUNTRY": "India", "NAME_1": "WestBengal", "VARNAME_1": "Bangla|BengalaOccidentale|Benga", "NL_NAME_1": "NA", "TYPE_1": "State", "ENGTYPE_1": "State", "CC_1": "NA", "HASC_1": "IN.WB", "ISO_1": "IN-WB" }, "geometry": { "type": "Point", "coordinates": [ 88.877809473075558, 22.370930442598898 ] } },
-{ "type": "Feature", "properties": { "GID_1": "IND.36_1", "GID_0": "IND", "COUNTRY": "India", "NAME_1": "WestBengal", "VARNAME_1": "Bangla|BengalaOccidentale|Benga", "NL_NAME_1": "NA", "TYPE_1": "State", "ENGTYPE_1": "State", "CC_1": "NA", "HASC_1": "IN.WB", "ISO_1": "IN-WB" }, "geometry": { "type": "Point", "coordinates": [ 88.870594970760251, 22.408032046783628 ] } },
-{ "type": "Feature", "properties": { "GID_1": "IND.36_1", "GID_0": "IND", "COUNTRY": "India", "NAME_1": "WestBengal", "VARNAME_1": "Bangla|BengalaOccidentale|Benga", "NL_NAME_1": "NA", "TYPE_1": "State", "ENGTYPE_1": "State", "CC_1": "NA", "HASC_1": "IN.WB", "ISO_1": "IN-WB" }, "geometry": { "type": "Point", "coordinates": [ 88.915559762728606, 22.425161295106282 ] } },
-{ "type": "Feature", "properties": { "GID_1": "IND.36_1", "GID_0": "IND", "COUNTRY": "India", "NAME_1": "WestBengal", "VARNAME_1": "Bangla|BengalaOccidentale|Benga", "NL_NAME_1": "NA", "TYPE_1": "State", "ENGTYPE_1": "State", "CC_1": "NA", "HASC_1": "IN.WB", "ISO_1": "IN-WB" }, "geometry": { "type": "Point", "coordinates": [ 88.882702384791571, 22.462880486035491 ] } },
-{ "type": "Feature", "properties": { "GID_1": "IND.36_1", "GID_0": "IND", "COUNTRY": "India", "NAME_1": "WestBengal", "VARNAME_1": "Bangla|BengalaOccidentale|Benga", "NL_NAME_1": "NA", "TYPE_1": "State", "ENGTYPE_1": "State", "CC_1": "NA", "HASC_1": "IN.WB", "ISO_1": "IN-WB" }, "geometry": { "type": "Point", "coordinates": [ 89.024133642235327, 26.24182431901151 ] } },
-{ "type": "Feature", "properties": { "GID_1": "IND.36_1", "GID_0": "IND", "COUNTRY": "India", "NAME_1": "WestBengal", "VARNAME_1": "Bangla|BengalaOccidentale|Benga", "NL_NAME_1": "NA", "TYPE_1": "State", "ENGTYPE_1": "State", "CC_1": "NA", "HASC_1": "IN.WB", "ISO_1": "IN-WB" }, "geometry": { "type": "Point", "coordinates": [ 88.883801112537412, 26.24320971330766 ] } },
-{ "type": "Feature", "properties": { "GID_1": "IND.36_1", "GID_0": "IND", "COUNTRY": "India", "NAME_1": "WestBengal", "VARNAME_1": "Bangla|BengalaOccidentale|Benga", "NL_NAME_1": "NA", "TYPE_1": "State", "ENGTYPE_1": "State", "CC_1": "NA", "HASC_1": "IN.WB", "ISO_1": "IN-WB" }, "geometry": { "type": "Point", "coordinates": [ 88.449620996029125, 21.909482621883964 ] } }
-]
+  "type": "FeatureCollection",
+  "name": "westbengal_centroids",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "Darjeeling",
+        "speakers": 12000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [88.2627, 27.0360]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "Kurseong",
+        "speakers": 9000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [88.2802, 26.8825]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "Kalimpong",
+        "speakers": 8500
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [88.4650, 27.0683]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "Siliguri",
+        "speakers": 7000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [88.3953, 26.7271]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "Jalpaiguri",
+        "speakers": 6000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [88.7205, 26.5160]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "Cooch Behar",
+        "speakers": 5000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [89.4450, 26.3300]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "Alipurduar",
+        "speakers": 4500
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [89.5270, 26.4910]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "Kolkata",
+        "speakers": 3000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [88.3639, 22.5726]
+      }
+    }
+  ]
 }

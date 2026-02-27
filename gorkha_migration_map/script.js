@@ -6,8 +6,8 @@ mapboxgl.accessToken =
 const map = new mapboxgl.Map({
   container: "map",
   style: "mapbox://styles/mapbox/outdoors-v12",
-  center: [88.5, 26.8], //Darjeeling–Dooars region 
-  zoom: 6.0
+  center: [87.5, 25.5], //Darjeeling–Dooars region 
+  zoom: 4.9
 });
 
 // Controls
